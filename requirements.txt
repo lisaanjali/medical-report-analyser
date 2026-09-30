@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+     pandas>=2.0.0
+     chromadb>=0.4.22
+     sentence-transformers>=2.2.2
+     googleapis-common-protos==1.63.2
+     protobuf<6,>=4.21
+     rich<14
